@@ -11,15 +11,15 @@ body {
 
 body > div {
     background-color: #fff;
-    max-width: 1400px;
+    max-width: 1000px;
     margin-inline: auto;
-    margin-block: 10px;
+    margin-block: 30px;
     padding: 40px;
     border-radius: 14px;
 }
 
 div img {
-    width: 47%;
+    width: 37%;
     border-radius: 12px;
     margin-bottom: 20px;
 }
